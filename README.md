@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sorann753
-- 👀 I’m interested in ( C++, Csharp, software_making );
-- 🌱 I’m currently learning ( QtCreator4.14 );
+- 👀 I’m interested in ( C++, Csharp, JavaScript, PHP, software_making );
+- 🌱 I’m currently on an internship;
 - 🗣️ I speak french and english
 
 - 📫 Reach me on discord at "Sorann#7231"
