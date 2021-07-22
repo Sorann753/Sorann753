@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sorann753;
-- 👀 I’m interested in { C++, Csharp, JavaScript, PHP, software_making };
+- 👀 I’m interested in { C++, Csharp, JavaScript, Python, software_making };
 - 🤖 I'm an AI enthusiast;
 - 🗣️ I speak french and english;
 
