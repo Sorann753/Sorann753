@@ -3,7 +3,7 @@
 - 🤖 I'm an AI enthusiast;
 - 🗣️ I speak french and english;
 
-- 📫 Reach me on discord at "Sorann#7231"
+- 📫 Reach me on discord at "Sorann#7231" or by mail at arthus.doriath@outlook.fr
 
 <!--- ligne de commentaire
 Sorann753/Sorann753 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
