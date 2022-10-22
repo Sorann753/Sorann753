@@ -5,6 +5,10 @@
 
 - 📫 Reach me on discord at "Sorann#7231" or by mail at arthus.doriath@outlook.fr
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sorann753&count_private=true&show_icons=true&theme=blue-green&border_radius=50)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sorann753&hide=html&langs_count=10&theme=blue-green&border_radius=50&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--- ligne de commentaire
 Sorann753/Sorann753 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
