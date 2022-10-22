@@ -5,7 +5,7 @@
 
 - 📫 Reach me on discord at "Sorann#7231" or by mail at arthus.doriath@outlook.fr
 
-<section align="center">
+<section align="center" style="margin-bottom: 25px 25px;">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sorann753&count_private=true&show_icons=true&theme=blue-green&border_radius=50" />
   </a>
