@@ -1,7 +1,15 @@
-- 👋 Hi, I’m @Sorann753;
-- 👀 I’m interested in { C++, Rust, C#, JavaScript, Python, software_making };
-- 🤖 I'm an AI enthusiast;
-- 🗣️ I speak french and english;
+## 👋 Hi, I’m @Sorann753;
+### 👀 I’m interested in
+<section justify="center">
+  <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png" />
+  <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/rust/rust.png" />
+  <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/csharp/csharp.png" />
+  <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/javascript/javascript.png" />
+  <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/python/python.png" />
+</section>
+
+- 🤖 I'm an AI enthusiast
+- 🗣️ I speak french and english fluently
 
 - 📫 Reach me on discord at "Sorann#7231" or by mail at arthus.doriath@outlook.fr
 
@@ -13,8 +21,3 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sorann753&hide=html&langs_count=10&theme=blue-green&border_radius=50&layout=compact" />
   </a>
 </section>
-
-<!--- ligne de commentaire
-Sorann753/Sorann753 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
