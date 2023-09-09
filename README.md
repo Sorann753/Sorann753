@@ -12,7 +12,7 @@
 - 🤖 I'm an AI enthusiast
 - 🗣️ I speak french and english fluently
 
-- 📫 Reach me on discord at "Sorann#7231" or by mail at arthus.doriath@outlook.fr
+- 📫 Reach me on discord at "_sorann" or by mail at arthus.doriath@outlook.fr
 
 <section align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
