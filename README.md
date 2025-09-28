@@ -11,8 +11,9 @@
 
 - 🤖 I'm an AI enthusiast
 - 🗣️ I speak french and english fluently, currently trying to learn japanese
-
-- 📫 Reach me on discord at "_sorann"
+- ✏️ I would love to learn to draw anime style illustrations
+- 💬 Reach me on discord at "_sorann"
+- 📫 Or by mail at sorann.dev@outlook.com
 
 <section align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
