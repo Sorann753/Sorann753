@@ -1,7 +1,7 @@
 ## 👋 Hi, I’m @Sorann753;
 ### 👀 I’m interested in
 <section justify="center">
-  <img height="32" width="32" src="https://www.rust-lang.org/logos/rust-logo-32x32.png" />
+  <img height="32" width="32" src="https://static.wikia.nocookie.net/programmingandcoding/images/b/b5/RustLogo.png/revision/latest?cb=20250202152436" />
   <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png" />
   <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/typescript/typescript.png" />
   <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/python/python.png" />
