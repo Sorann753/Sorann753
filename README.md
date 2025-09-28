@@ -10,7 +10,7 @@
 </section>
 
 - 🤖 I'm an AI enthusiast
-- 🗣️ I speak french and english fluently
+- 🗣️ I speak french and english fluently, currently trying to learn japanese
 
 - 📫 Reach me on discord at "_sorann"
 
