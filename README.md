@@ -15,6 +15,6 @@
 - 💬 Reach me on discord at "_sorann"
 - 📫 Or by mail at sorann.dev@outlook.com
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Sorann753&langs_count=7&theme=radical)](https://github-stats-extended.vercel.app/api/top-langs?username=Sorann753&langs_count=7&theme=radical)
-
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Sorann753&custom_title=Productivity&show_icons=true&include_all_commits=true&theme=radical)](https://github-stats-extended.vercel.app/api?username=Sorann753&custom_title=Productivity&show_icons=true&include_all_commits=true&theme=radical)
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Sorann753&langs_count=5&theme=radical)](https://github-stats-extended.vercel.app/api/top-langs?username=Sorann753&langs_count=7&theme=radical)
