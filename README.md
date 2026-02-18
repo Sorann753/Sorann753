@@ -15,6 +15,8 @@
 - 💬 Reach me on discord at "_sorann"
 - 📫 Or by mail at sorann.dev@outlook.com
 
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=Sorann753)](https://github.com/stats-organization/github-stats-extended)
+
 <section align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sorann753&count_private=true&show_icons=true&theme=blue-green&border_radius=50" />
