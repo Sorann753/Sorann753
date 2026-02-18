@@ -15,13 +15,6 @@
 - 💬 Reach me on discord at "_sorann"
 - 📫 Or by mail at sorann.dev@outlook.com
 
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=Sorann753)](https://github.com/stats-organization/github-stats-extended)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Sorann753&langs_count=7&theme=radical)](https://github-stats-extended.vercel.app/api/top-langs?username=Sorann753&langs_count=7&theme=radical)
 
-<section align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sorann753&count_private=true&show_icons=true&theme=blue-green&border_radius=50" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sorann753&hide=html&langs_count=10&theme=blue-green&border_radius=50&layout=compact" />
-  </a>
-</section>
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Sorann753&custom_title=Productivity&show_icons=true&include_all_commits=true&theme=radical)](https://github-stats-extended.vercel.app/api?username=Sorann753&custom_title=Productivity&show_icons=true&include_all_commits=true&theme=radical)
