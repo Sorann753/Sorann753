@@ -1,13 +1,14 @@
 ## 👋 Hi, I’m @Sorann753;
 ### 👀 I’m interested in
-<section justify="center">
-  <img height="32" width="32" src="https://static.wikia.nocookie.net/programmingandcoding/images/b/b5/RustLogo.png/revision/latest?cb=20250202152436" />
-  <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png" />
-  <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/refs/heads/main/topics/javascript/javascript.png" />
-  <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/python/python.png" />
-  <img height="32" width="32" src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png" />
-  
-</section>
+<table border="0">
+<tr>
+  <td><img height="64" width="64" src="https://static.wikia.nocookie.net/programmingandcoding/images/b/b5/RustLogo.png/revision/latest?cb=20250202152436" /></td>
+  <td><img height="64" width="64" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png" /></td>
+  <td><img height="64" width="64" src="https://raw.githubusercontent.com/github/explore/refs/heads/main/topics/javascript/javascript.png" /></td>
+  <td><img height="64" width="64" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/python/python.png" /></td>
+  <td><img height="64" width="64" src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png" /></td>
+</tr>
+</table>
 
 - 🤖 I'm an AI enthusiast
 - 🗣️ I speak french and english fluently, currently trying to learn japanese
