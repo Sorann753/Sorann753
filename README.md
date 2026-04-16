@@ -6,7 +6,7 @@
   <td><img height="64" width="64" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png" /></td>
   <td><img height="64" width="64" src="https://raw.githubusercontent.com/github/explore/refs/heads/main/topics/javascript/javascript.png" /></td>
   <td><img height="64" width="64" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/python/python.png" /></td>
-  <td><img height="64" width="64" src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png" /></td>
+  <td><img height="64" width="64" src="https://avatars.githubusercontent.com/u/21169439" /></td>
 </tr>
 </table>
 
